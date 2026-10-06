@@ -1,0 +1,43 @@
+header {background-color:#f9ecf2;width:90%;margin:5px auto;padding:5px;text-align:center;}
+header .leftPart {display:inline-block;width:30%;color:#001a00;}
+header .middlePart {display:inline-block;width:30%;color:#001a00;}
+header .rightPart {display:inline-block;width:30%;
+         background-color:#ff0;}
+.userBar {background-color:#cecece; }		 
+footer {font-size:12pt;background-color:#f9ecf2;width:90%;margin:20px auto;
+padding:5px; color:#001a00;}
+/* the following is for the main content of the page */
+.content {border:1px solid blue;padding:5px;width:90%;margin:5px auto;}
+/* the following is for any form inside content of the page */
+.content form {border:3px solid; background-color:#408000;
+      width:50%;margin:5px auto;padding:10px;border-radius:20px}
+.content form h2, .content h2 {background-color:#e6b3b3;}
+.content form h2 {margin-top:0px;}
+.content form h3, .content h2 {background-color:#EBEEB0;}
+.buttons {margin:10px auto;text-align:center;}
+.buttons input {border-radius:10px;}
+
+.tbl {border-collapse:collapse;}
+.tbl, .tbl td, .tbl th {border:solid 1px;}
+.msg {font-size:13pt;} 
+.img-container {
+        text-align: center;
+      }
+body {
+                text-align:center;
+                background-color:#DCDCDC;
+				
+            }
+.st { font-size:13pt; color:red; }
+.container {
+  border: 2px solid #ccc;
+  padding: 10px;
+  width: 20em;
+}
+.item {
+  width: -moz-fit-content;
+  width: fit-content;
+
+  padding: 5px;
+  margin-bottom: 1em;
+}
